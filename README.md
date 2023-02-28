@@ -1,6 +1,8 @@
 # Bershka_Web_App_Clone_Front_End
 
+<div id="up"></div>
 <a href="#react">React Doc</a>
+
 <a href="#project">Project Doc</a>
 ![1](https://user-images.githubusercontent.com/72611040/222006075-e6d5c8f2-3486-4f90-a42f-adfbc4ac9c47.jpg)
 ![2](https://user-images.githubusercontent.com/72611040/222006082-ff582097-9022-411d-9a96-ade690f8d834.jpg)
@@ -123,5 +125,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-
+<a href = "#up">Page Up</a>
 </div>
